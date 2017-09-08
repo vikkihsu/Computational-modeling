@@ -1,0 +1,7 @@
+dimension: 
+rows: 3
+columns: 2
+format: column major
+10	10	
+10	10	
+10	10	
